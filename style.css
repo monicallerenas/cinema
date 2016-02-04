@@ -1,0 +1,43 @@
+.container {
+	width: 1600px;
+	padding-left: 14px; 
+	padding-right: 14px;
+	margin: 0px auto;
+}
+.panel{
+	width: 1580px;
+	height: 350px;
+	background: orange;
+	padding: 30px 20px 30px 30px;
+}
+.margen{
+	margin-left: 10px;
+}
+.max{
+	width: 1630px;
+}
+p{
+	font-family: comic;
+	font-size: 24px;
+	color:pink;
+}
+h2{
+	font-family: comic;
+	font-size: 40px;	
+}
+.boton{
+	width: 150px;
+	height: 40px;
+	background-color: orange;
+	border-radius: 2px;
+	text-align: center;
+	font-family: comic;
+	font-size: 20px;
+	padding:20px 15px 0px 15px;
+	color:white;
+}
+.desc{
+	color:red;
+	font-family: curive;
+	font-size: 20px;
+}
